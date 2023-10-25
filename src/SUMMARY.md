@@ -1,3 +1,10 @@
+# The Crystal Sagas
+
+# Server
+
+- [Rules]()
+- [Joining]()
+
 # Story
 
 - [World](./story/world/SUMMARY.md)
@@ -6,3 +13,11 @@
 - [Midgar](./story/midgar/SUMMARY.md)
     - [The Shinra Electric Power Company](./story/midgar/shinra.md)
 - [Insomnia](./story/insomnia/SUMMARY.md)
+
+# Mechanics
+
+- [Basics]()
+- [Combat Rules]()
+- [Classes]()
+- [Status Effects]()
+- [Ranks]()
