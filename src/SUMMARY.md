@@ -2,8 +2,15 @@
 
 # Server
 
-- [Rules]()
+- [Rules](./server/rules.md)
 - [Joining]()
+
+# Mechanics
+
+- [Basics](./mechanics/basics.md)
+- [Combat Rules](./mechanics/combat_rules.md)
+- [Status Effects](./mechanics/status_effects.md)
+- [Ranks](./mechanics/ranks.md)
 
 # Story
 
@@ -14,10 +21,9 @@
     - [The Shinra Electric Power Company](./story/midgar/shinra.md)
 - [Insomnia](./story/insomnia/SUMMARY.md)
 
-# Mechanics
+# Characters (Heavily WIP; autogeneration needed)
 
-- [Basics]()
-- [Combat Rules]()
 - [Classes]()
-- [Status Effects]()
-- [Ranks]()
+- [Weapons]()
+- [Weapon Techniques]()
+- [Magic Techniques]()
