@@ -24,6 +24,7 @@
 
 # Characters
 
+- [Races]()
 - [Classes]()
 - [Weapons]()
 - [Weapon Techniques]()
