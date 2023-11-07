@@ -108,7 +108,13 @@ The following exceptions are in effect:
 
 ## Fall Damage
 
+When a character is in the air and falling for any reason, it takes one full round for them to hit the floor.
 
+- Fall damage starts at **5** tiles up, and increases every tile after.
+- Base: 3d6 Bludgeoning
+- Scaling: +1d6 Bludgeoning per tile beyond 5
+- You hit the ground on the **next end of turn**, if nothing is preventing you from falling.
+    - This means that if you go into the air in your turn, you hit the ground at the end.
 
 ## Status Effects
 
@@ -117,6 +123,12 @@ Unlike **Combat Conditions**, these are normally timed effects that expire by th
 Please see [Status Effects](./status_effects.md).
 
 ### Status Cooldowns
+
+To patch the more overpowered status effects, there are cooldowns applied **after** an effect ends.
+
+- 'Stop': 3 turns
+- 'Paralyze': 3 turns
+- 'Sleep': 3 turns
 
 ## Summons / Robots / NPCs
 
@@ -158,6 +170,117 @@ An 'encounter', for things like limited resources/actions that may only be used 
 
 ## Danger Level
 
+Encounters have **danger levels** to determine how risky it is to the participants.
+
+They are as follows:
+
+- **1 - Low**: Minor events, open PVP engagements, etc.
+    - No chance of dying
+    - No chance of major injury
+- **2 - Moderate**: Some events, agreed upon/event-ish PVP engagements, etc.
+    - No chance of dying
+    - Chance of long-term affliction / injury as agreed upon by parties involved
+- **3 - High**: Lethal events / agreed upon lethal PVP
+    - High chance of major injury, death, etc
+    - Death saving throws may be required of the losing team by the winning.
+- **4 - Critical**: Extremely dangerous events / agreed upon lethal PVP
+    - **Stabilization may not be performed on those undertaking death saving throws.**
+    - Death saving throws may be increased in difficulty to 3 losses to die, rather than 4.
+
+### Death Saving Throws
+
+Death Saving Throws are a DC 10 Constitution check.
+
+You die if you fail 4 times before succeeding 3 times.
+
+### Stabilization
+
+**This section is heavily WIP.**
+
+Those with White Magic or other medical skills may perform stabilization rolls on the victims.
+
+Each defeated member may perform stabilization on one single ally.
+
+It is a DC 10 Medical roll to prevent someone from having to perform Death Saving Throws.
+
+The following modifiers are in effect unless otherwise specified:
+
+- Having 'Cure': +1 to Stabilize
+- Having 'Cura': +2 to Stabilize
+- Having 'Curaga': Advantage to Stabilize
+- Having 'Curaja': You may use your roll for **all** party members, including yourself.
+- Each level includes the benefits of the last, so Curaja is +3, advantage, and used for all.
+
 ## PvP
+
+**This section is heavily WIP.** We do not encourage lethal PvP, as it is not the point of the ongoing wipe.
+
+Two types of PvP engagements are generally allowable:
+
+- Open Engagements: When encountering someone on the world map/otherwise. These are **Threat Level 2, at most**, as agreed upon by the parties.
+- Closed Engagements: **Must be agreed to by all parties**: These are **Threat Level 4, at most**, as agreed upon by the parties.
+
+If you've noticed that PvP is only lethal when agreed upon (or in an event), you would be correct.
+
+### Roleplay
+
+Some additional points regarding PvP instances, especially spontaneous ones, are as follows:
+
+- Not all PvP must be mechanical, turn-based. If the involved parties agree to something else, they are allowed to perform the given instance as long as it makes sense.
+- Starting a PvP encounter, much like any other roleplayed scenario, automatically means anyone ICly in the immediate vicinity may join. 
+- PvP encounters may be initiated outside of agreed areas / from encountering someone on the map, within reason.
+    - This usually requires both sides to engage in RP. Just walking outside of town and wanting to beat up the first person you see going around gathering nodes with no prior justification is not going to work out.
+
+### Danger
+
+Some additional points regarding danger levels are as follows:
+
+- The winning side does not **have to** enforce Death Saving Throws upon the losing side, even if they agreed upon a lethal encounter.
+- Any long term / persistent harm done to a side, including mugging/etc, automatically escalates the encounter to a **Danger Level 2**.
+
+### Resolution
+
+PvP instances generally end, much like other encounters, when one side is fully KO'd.
+
+#### Ceasefires
+
+PvP instances may end by both sides agreeing to a cease-fire.
+
+- **Everyone** must agree to this to end an encounter this way. If a party member is in disagreement, they must be handled, one way or another.
+
+#### Defeat
+
+Being defeated generally means that the winner may do to the loser as per the danger level.
+
+- **Any** fully lethal action requires Danger 3+.
+- **Any** major, long-term injury/maiming requires Danger 2+.
+- **Capturing / Mugging** requires Danger 2.
+
+#### Capture
+
+The winning party may enforce capture status upon the losing, in a dangerous encounter.
+
+- Only **major factions** (currently Midgar/Insomnia's militaries) may capture people. Normal individuals cannot simply chain someone to their basement.
+- This generally requires coordination and RP, as the game does not **have** a true 'capture' system in its code.
+
+#### Mugging
+
+This is not a thing in this game at this point in time.
+
+#### Injury
+
+This is not a thing in this game at this point in time.
+
+#### Flee
+
+**These are only for PvP enconuters, not events.** The event runner may choose to use these, or not, as per usual for event handling.
+
+To flee an encounter, each party member that is not KO'd makes a **DEX** roll. The total results are compared - the fleeing party needs to have a higher roll to get away.
+
+- A Flee attempt takes the full turn action of each member involved.
+- KO'd individuals may not make the roll.
+- Persuing characters sacrifice their next **standard** action, as opposed to full, to make this roll..
+    - If they are unable to perform their standard action, they may not make the roll. This means that if the entire party is stunned/otherwise, they cannot persue.
+- **If someone is excluded from the roll, the fleeing party may designate one person of the persuing party per exclusion to skip their roll as well.**
 
 

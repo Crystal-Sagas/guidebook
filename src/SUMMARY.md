@@ -27,3 +27,4 @@
 - [Weapons]()
 - [Weapon Techniques]()
 - [Magic Techniques]()
+- [Uniques / Semi-Uniques]()
