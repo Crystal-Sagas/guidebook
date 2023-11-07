@@ -9,6 +9,7 @@
 
 - [Basics](./mechanics/basics.md)
 - [Combat Rules](./mechanics/combat_rules.md)
+- [PvP Rules](./mechanics/pvp_rules.md)
 - [Status Effects](./mechanics/status_effects.md)
 - [Ranks](./mechanics/ranks.md)
 
@@ -21,7 +22,7 @@
     - [The Shinra Electric Power Company](./story/midgar/shinra.md)
 - [Insomnia](./story/insomnia/SUMMARY.md)
 
-# Characters (Heavily WIP; autogeneration needed)
+# Characters
 
 - [Classes]()
 - [Weapons]()
