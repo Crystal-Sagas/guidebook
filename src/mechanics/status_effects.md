@@ -72,23 +72,72 @@ Each one provides examples.
 ## Negative Effects
 
 - Beserk:
+    - User gains **+4** accuracy (to hit) and **+4** damage on all **outgoing physical** attacks.
+    - User gains **+1** Tile Movement.
+    - User may not use **abilities, skills, or reactions.**
+    - User must make a **Wisdom** saving throw against the inflicting attack/cause's DC or attack the person closest to them, including allies.
 - Bleed:
+    - User loses **5 x CON modifier** every turn, or 5 HP, whatever is higher, **bypasssing DR**.
+    - This effect may **stack**.
+    - Negated by **Regen**.
 - Blind:
+    - User loses **-5** to their to hit.
+    - User loses **-4** to their AC.
 - Break:
+    - User loses **-2** to their Tile Movement per tick.
+    - User is **rooted** and petrified, gaining **resistance** to all **physical** damage, when they run out of tile movement.
+    - User becomes a statue on the next tick after this, gaining **+10** Armor Class, **vulnerability** to all **physical** damage.
+    - User **dies** when KO'd while Petrified.
+    - Unlike other effects, this is permanent until dispelled manually.
 - Burn:
+    - User has their **outgoing physical** damage **halved**.
+    - Dispelled by any **cold** damage towards the user.
 - Curse:
+    Any kind of restorative magic harms the user, instead of heals.
 - Doom:
+    - User is marked for death.
+    - User is **KO'd** if this is not dispelled within 4 turns.
+    - Negated by **Reraise** (Reraise instantly activates on this going off).
 - Frostbite:
+    - User has their **outgoing magical** damage **halved**.
+    - Dispelled by any **fire** damage towards the user.
 - Heavy:
+    - User suffers **-2** Tile Movement.
+    - User suffers **-2** Armor Class.
+    - User suffers **vulnerability** (doubled damage) to **Earth** damage.
+    - User is **grounded** and unable to fly.
+    - Negated by **Float**.
 - Paralyze:
+    - User is **rooted**, and unable to move.
+    - User automatically fails **Strength** and **Dexterity** saving throws.
+    - User is considered **Prone**.
+    - Airborne targets are immediately knocked to the ground.
 - Poison:
+    - User loses **5% max HP**, or **5 x CON modifier** every tick, whichever is higher.
+    - User makes all **outgoing attacks** and **ability / skill rolls** at **disadvantage**.
+    - Negated by **Regen**.
 - Resurrection Sickness
     - Prevents resurrection until expired / cured.
 - Silence:
+    - User is unable to use **General, Black, and White** magic.
+    - User is unable to **talk**.
 - Sleep:
+    - User has **0 AC**, and **incoming, adjacent attacks** against the user are made with **advantage**.
+    - User must make a **Wisdom** saving throw against the source's DC to wake up.
+    - User gains **20 HP/MP/SP** per tick while asleep.
+    - This effect is **dispelled** on the turn after when the user is attacked.
 - Slow:
+    - User suffers **-3** Tile Movement.
+    - User suffers **-4** Armor Class.
+    - User may either perform an **action** *or* a **bonus action** per turn.
+    - Negated by **Haste**.
 - Stop:
+    - User is completely removed from the flow of time, and are unable to do anything.
+    - User is **immune** to all incoming effects, attacks/damaging or otherwise, during this.
 - Stun:
+    - User is **rooted** to their place and unable to move.
+    - User fails **Strength** and **Dexterity** saving throws automatically.
+    - Attacks made against the user are made with **advantage**.
 - Squall:
 - Toad:
 - Weakness:
