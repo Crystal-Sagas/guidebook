@@ -1,0 +1,5 @@
+# Mysidia
+
+A reclusive location isolated from much of the rest of the world, said to be the village of the largest tribe of Cetra and the origin point of the art of Red Magery, which aims to balance Aetherial and Lifestream arts together. It’s an art of moderation laced in the mastery of opposing forces, and associated in their culture with a ‘truly enlightened’ type of magic use, uniting these forces together. This is why an effort was made to teach these arts to other lands even though Mysidia itself remains isolated.
+
+Mysidia has quiet connections with the Lucian bloodline, as past Kings and Queens have lent their aid to them. As an ancient land, they are biased towards Insomnia, but they don’t wish to involve themselves in the present conflict as quite frankly they believe Midgar is far too unstable and they’ll soon destroy themselves like many other ancient kingdoms for so dangerously interacting with the Lifestream, thusly they don’t see them as a threat and plan to ‘wait them out’.

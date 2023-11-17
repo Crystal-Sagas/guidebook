@@ -1,0 +1,5 @@
+# Baron
+
+Baron is a small kingdom that maintains its independence from the Midgar-Insomnia war. In truth, it has a difficult position. Airship parts and mechanical components for its fleet are easily acquired from Shinra, but at the same time Insomnia is a land where they have had generations of connections with. Nevertheless, Baron is a rustic, beautiful land with artistically-built airships that are seen as the most enjoyable to fly on trips. They also have a sizable flying navy and were the first country to adopt flying machines into their military forces.
+
+Currently, Baron remains quite neutral to both Midgar and Insomnia, but trades and visits both nations actively. Some on both sides feel they should ‘pick a side’ and stop sitting on the fence, but Baron is unwilling to as doing so would not be in their favor. Those of the country’s leadership don’t wish to make enemies among what they consider their allies by oaths and traditions or their allies by similar interests in artifice and aircraft technology.

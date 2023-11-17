@@ -1,0 +1,11 @@
+# Insomnia
+
+Insomnia is an ancient kingdom founded around the Aether Crystal. The first Lucis Caelums braved the trials of the Aether Crystal and managed to form a pact with it, and this crystal serves as the basis for their tangible power in the region. However, the Lucis Caelum line has persisted for more than five hundred years. Insomnia as a Kingdom has always been one founded under heroic ideals, as generally the Kings and Queens of Insomnia are hailed as great heroes and protectors, with their Heirs trying to take up that mantle.
+
+Because of this culture, Insomnia’s people often look up to and idolize the present and past Lucis Caelum royals, but it also places huge expectations upon them to always be ‘right’, the perfect, most sensible Kings, Queens, and Heirs possible. Not all can uphold these expectations but these individuals are not chosen to continue the line when they appear. As an overview, Insomnia is a very strong nation, but one that’s located in a central, highly defensible position with annexed lands surrounding it.
+
+It’s said that Insomnia itself is unassailable, protected by a great shield of Aether that cannot be broken, with ancient guardians in the form of the past Kings and Queens that awake if the city is threatened. Still, the Kingdom’s power projection abilities are lacking, focused more on its incredible defense. Due to territorial skirmishes that slowly escalated as Midgar was expanding towards their lands, a state of war was declared and fighting along the border was common for a time.
+
+Insomnia itself is a highly modern city that balances ancient structures with modern buildings. It’s very vertical in construction, with grand skyscrapers and sky-bridges. Even so, a criticism outsiders have is that they’re so unchanging and don’t break from their monarchial traditions, letting the past guide their decisions more than the present. The new buildings are built upon the old. 
+
+They can be slow to respond to problems that aren’t entirely on their doorstep, staying aloof and impartial even when they should have acted. Some feel that instead of just condemning Shinra’s actions and exiling them, they should have helped Guadosalam, or that they should have intervened earlier in Midgar’s founding when it was beginning to expand aggressively.
