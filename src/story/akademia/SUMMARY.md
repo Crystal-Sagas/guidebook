@@ -1,0 +1,5 @@
+# Akademia
+
+An unusual country, Akademia is a war-like nation based around a central institution of learning. A prominent school for mercenaries, the Headmaster of that institution eventually became the leader of Akademia through the conquering of surrounding lands in ‘military exercises’. Despite ruthless methods, this is well known as one of the greatest places of magical and martial learning - as long as it relates to combative uses or research into unorthodox uses for power. Akademia’s institution attracts people from afar, looking to get it. Despite its ways, it’s open for those with enough money or that show sufficient promise in the initial exam phase. 
+
+Rumor has it that Akademia is quietly interested in Midgar’s progress ideology, and are monitoring the conflict from afar, though they’re in no position to influence it at present. They themselves are a newer nation focused on ‘progress’ of a kind, be it presently mostly explored through magical and esoteric research over machina and devices. *NEW* As an example of this, Red Magery as an art of progress and balance was taken by them and adapted into a more war-like form, much to the distaste of Mysidia.
