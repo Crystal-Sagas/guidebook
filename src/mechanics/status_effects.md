@@ -139,7 +139,23 @@ Each one provides examples.
     - User fails **Strength** and **Dexterity** saving throws automatically.
     - Attacks made against the user are made with **advantage**.
 - Squall:
+    - User takes **+2d10** additional fire damage from **any** instance of fire damage dealt to them.
+    - **Incoming Wind** typed attacks have **advantage** against the user.
 - Toad:
+    - User's stats are all reduced by **-6**.
+    - User is unable to use **skills, attacks, or reactions.**
+    - User has **vulnerability** against **all** incoming damage.
+    - Dispels on the user taking damage, immediately.
+    - This is counted as a **fully incapacitating effect.**
 - Weakness:
+    - User loses **-2** on accuracy (to hit) on all **outgoing attack rolls**.
+    - User deals **-10** damage on all **outgoing attacks.**
 - Wet:
+    - User has **resistance** (halved damage) against **Fire** damage.
+    - User suffers **+2d12** damage from any instance of **Lightning** damage against them.
+    - User has **disadvantage** against saving throws from abilities dealing **Cold** damage.
+    - Non-saving throw **incoming attack rolls** dealing **Cold** damage are done at **advantage**.
+    - Dispelled by any instances of **Fire** or **Wind** damage.
 - Whorl:
+    - User has their movement speed **halved**.
+    - User is considered **Wet** while this is in effect.
